@@ -1,2 +1,2 @@
-# Weakly-Supervised-Hybrid-LF-Spatial-SR
-Weakly-Supervised Hybrid Light Field Spatial Super-Resolution Network
+# weakly-supervised HLFSSR
+Weakly-Supervised Hybrid Light Field Spatial Super-Resolution  Network
