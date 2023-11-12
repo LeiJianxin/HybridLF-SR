@@ -1,2 +1,2 @@
-# weakly-supervised HLFSSR
-Weakly-Supervised Hybrid Light Field Spatial Super-Resolution  Network
+# unsupervised HLFSSR
+Unsupervised Leaning-based Hybrid Light Field Spatial Super-Resolution  Network
